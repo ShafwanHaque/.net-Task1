@@ -9,7 +9,6 @@
       "PrimaryTask1/1.0.0": {
         "dependencies": {
           "BLL": "1.0.0",
-          "DAL": "1.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.4",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.2"
         },

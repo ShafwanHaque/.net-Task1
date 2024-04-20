@@ -28,3 +28,4 @@ F:\Spring-24\.NET\PrimaryTask1\BLL\obj\Debug\net8.0\BLL.dll
 F:\Spring-24\.NET\PrimaryTask1\BLL\obj\Debug\net8.0\refint\BLL.dll
 F:\Spring-24\.NET\PrimaryTask1\BLL\obj\Debug\net8.0\BLL.pdb
 F:\Spring-24\.NET\PrimaryTask1\BLL\obj\Debug\net8.0\ref\BLL.dll
+F:\Spring-24\.NET\PrimaryTask1\BLL\obj\Debug\net8.0\BLL.sourcelink.json

@@ -7,28 +7,32 @@
       "RelativeMoniker": "D:0:0:{AF506A50-D1CA-4080-8FDA-44D271613EAE}|BLL\\BLL.csproj|solutionrelative:bll\\model\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF506A50-D1CA-4080-8FDA-44D271613EAE}|BLL\\BLL.csproj|f:\\spring-24\\.net\\primarytask1\\bll\\model\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF506A50-D1CA-4080-8FDA-44D271613EAE}|BLL\\BLL.csproj|solutionrelative:bll\\model\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{684C5780-9496-462E-9D0D-8DADA792F936}|PrimaryTask1\\PrimaryTask1.csproj|f:\\spring-24\\.net\\primarytask1\\primarytask1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684C5780-9496-462E-9D0D-8DADA792F936}|PrimaryTask1\\PrimaryTask1.csproj|solutionrelative:primarytask1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF506A50-D1CA-4080-8FDA-44D271613EAE}|BLL\\BLL.csproj|f:\\spring-24\\.net\\primarytask1\\bll\\model\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF506A50-D1CA-4080-8FDA-44D271613EAE}|BLL\\BLL.csproj|solutionrelative:bll\\model\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF506A50-D1CA-4080-8FDA-44D271613EAE}|BLL\\BLL.csproj|f:\\spring-24\\.net\\primarytask1\\bll\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF506A50-D1CA-4080-8FDA-44D271613EAE}|BLL\\BLL.csproj|solutionrelative:bll\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{684C5780-9496-462E-9D0D-8DADA792F936}|PrimaryTask1\\PrimaryTask1.csproj|f:\\spring-24\\.net\\primarytask1\\primarytask1\\primarytask1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{684C5780-9496-462E-9D0D-8DADA792F936}|PrimaryTask1\\PrimaryTask1.csproj|solutionrelative:primarytask1\\primarytask1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A84C9665-4EC8-4474-8C15-3E783EA83600}|DAL\\DAL.csproj|f:\\spring-24\\.net\\primarytask1\\dal\\ef\\ef_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A84C9665-4EC8-4474-8C15-3E783EA83600}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\ef_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A84C9665-4EC8-4474-8C15-3E783EA83600}|DAL\\DAL.csproj|f:\\spring-24\\.net\\primarytask1\\dal\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A84C9665-4EC8-4474-8C15-3E783EA83600}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF506A50-D1CA-4080-8FDA-44D271613EAE}|BLL\\BLL.csproj|f:\\spring-24\\.net\\primarytask1\\bll\\model\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF506A50-D1CA-4080-8FDA-44D271613EAE}|BLL\\BLL.csproj|solutionrelative:bll\\model\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{684C5780-9496-462E-9D0D-8DADA792F936}|PrimaryTask1\\PrimaryTask1.csproj|f:\\spring-24\\.net\\primarytask1\\primarytask1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{684C5780-9496-462E-9D0D-8DADA792F936}|PrimaryTask1\\PrimaryTask1.csproj|solutionrelative:primarytask1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF506A50-D1CA-4080-8FDA-44D271613EAE}|BLL\\BLL.csproj|f:\\spring-24\\.net\\primarytask1\\bll\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF506A50-D1CA-4080-8FDA-44D271613EAE}|BLL\\BLL.csproj|solutionrelative:bll\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84C9665-4EC8-4474-8C15-3E783EA83600}|DAL\\DAL.csproj|f:\\spring-24\\.net\\primarytask1\\dal\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84C9665-4EC8-4474-8C15-3E783EA83600}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A84C9665-4EC8-4474-8C15-3E783EA83600}|DAL\\DAL.csproj|f:\\spring-24\\.net\\primarytask1\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -47,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{684C5780-9496-462E-9D0D-8DADA792F936}|PrimaryTask1\\PrimaryTask1.csproj|solutionrelative:primarytask1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{684C5780-9496-462E-9D0D-8DADA792F936}|PrimaryTask1\\PrimaryTask1.csproj|f:\\spring-24\\.net\\primarytask1\\primarytask1\\primarytask1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{684C5780-9496-462E-9D0D-8DADA792F936}|PrimaryTask1\\PrimaryTask1.csproj|solutionrelative:primarytask1\\primarytask1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{684C5780-9496-462E-9D0D-8DADA792F936}|PrimaryTask1\\PrimaryTask1.csproj|f:\\spring-24\\.net\\primarytask1\\primarytask1\\migrations\\20240419185124_runfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{684C5780-9496-462E-9D0D-8DADA792F936}|PrimaryTask1\\PrimaryTask1.csproj|solutionrelative:primarytask1\\migrations\\20240419185124_runfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -62,11 +62,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseHandler.cs",
+              "DocumentMoniker": "F:\\Spring-24\\.NET\\PrimaryTask1\\BLL\\Model\\ResponseHandler.cs",
+              "RelativeDocumentMoniker": "BLL\\Model\\ResponseHandler.cs",
+              "ToolTip": "F:\\Spring-24\\.NET\\PrimaryTask1\\BLL\\Model\\ResponseHandler.cs",
+              "RelativeToolTip": "BLL\\Model\\ResponseHandler.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvycAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T03:59:15.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\Spring-24\\.NET\\PrimaryTask1\\PrimaryTask1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "PrimaryTask1\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\Spring-24\\.NET\\PrimaryTask1\\PrimaryTask1\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "PrimaryTask1\\Controllers\\StudentController.cs*",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:39:12.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,27 +101,14 @@
               "RelativeDocumentMoniker": "BLL\\Model\\ApiResponse.cs",
               "ToolTip": "F:\\Spring-24\\.NET\\PrimaryTask1\\BLL\\Model\\ApiResponse.cs",
               "RelativeToolTip": "BLL\\Model\\ApiResponse.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBYAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T03:59:39.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResponseHandler.cs",
-              "DocumentMoniker": "F:\\Spring-24\\.NET\\PrimaryTask1\\BLL\\Model\\ResponseHandler.cs",
-              "RelativeDocumentMoniker": "BLL\\Model\\ResponseHandler.cs",
-              "ToolTip": "F:\\Spring-24\\.NET\\PrimaryTask1\\BLL\\Model\\ResponseHandler.cs",
-              "RelativeToolTip": "BLL\\Model\\ResponseHandler.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAADwvycAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T03:59:15.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "StudentModel.cs",
               "DocumentMoniker": "F:\\Spring-24\\.NET\\PrimaryTask1\\BLL\\Model\\StudentModel.cs",
               "RelativeDocumentMoniker": "BLL\\Model\\StudentModel.cs",
@@ -104,8 +116,7 @@
               "RelativeToolTip": "BLL\\Model\\StudentModel.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAgwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T03:57:57.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T03:57:57.629Z"
             },
             {
               "$type": "Document",
@@ -115,27 +126,14 @@
               "RelativeDocumentMoniker": "BLL\\Model\\DbHelper.cs",
               "ToolTip": "F:\\Spring-24\\.NET\\PrimaryTask1\\BLL\\Model\\DbHelper.cs",
               "RelativeToolTip": "BLL\\Model\\DbHelper.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAADwv1wAAAAAAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAUwFoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T03:19:27.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "F:\\Spring-24\\.NET\\PrimaryTask1\\PrimaryTask1\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "PrimaryTask1\\Controllers\\StudentController.cs",
-              "ToolTip": "F:\\Spring-24\\.NET\\PrimaryTask1\\PrimaryTask1\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "PrimaryTask1\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAwwFAAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T15:39:12.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "F:\\Spring-24\\.NET\\PrimaryTask1\\DAL\\EF\\Student.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Student.cs",
@@ -143,8 +141,7 @@
               "RelativeToolTip": "DAL\\EF\\Student.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAkwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:22:44.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T12:22:44.564Z"
             },
             {
               "$type": "Document",
@@ -154,14 +151,14 @@
               "RelativeDocumentMoniker": "DAL\\EF\\EF_DataContext.cs",
               "ToolTip": "F:\\Spring-24\\.NET\\PrimaryTask1\\DAL\\EF\\EF_DataContext.cs",
               "RelativeToolTip": "DAL\\EF\\EF_DataContext.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAowBIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T09:44:03.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Spring-24\\.NET\\PrimaryTask1\\PrimaryTask1\\Program.cs",
               "RelativeDocumentMoniker": "PrimaryTask1\\Program.cs",
@@ -173,7 +170,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "PrimaryTask1.csproj",
+              "DocumentMoniker": "F:\\Spring-24\\.NET\\PrimaryTask1\\PrimaryTask1\\PrimaryTask1.csproj",
+              "RelativeDocumentMoniker": "PrimaryTask1\\PrimaryTask1.csproj",
+              "ToolTip": "F:\\Spring-24\\.NET\\PrimaryTask1\\PrimaryTask1\\PrimaryTask1.csproj",
+              "RelativeToolTip": "PrimaryTask1\\PrimaryTask1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T09:03:03.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20240419125952_IntialDatabase.cs",
               "DocumentMoniker": "F:\\Spring-24\\.NET\\PrimaryTask1\\PrimaryTask1\\Migrations\\20240419125952_IntialDatabase.cs",
               "RelativeDocumentMoniker": "PrimaryTask1\\Migrations\\20240419125952_IntialDatabase.cs",
@@ -185,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\Spring-24\\.NET\\PrimaryTask1\\PrimaryTask1\\appsettings.json",
               "RelativeDocumentMoniker": "PrimaryTask1\\appsettings.json",
@@ -197,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DAL.csproj",
               "DocumentMoniker": "F:\\Spring-24\\.NET\\PrimaryTask1\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
@@ -205,8 +215,7 @@
               "RelativeToolTip": "DAL\\DAL.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-19T09:14:36.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T09:14:36.415Z"
             },
             {
               "$type": "Document",
@@ -219,18 +228,6 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T18:51:25.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PrimaryTask1.csproj",
-              "DocumentMoniker": "F:\\Spring-24\\.NET\\PrimaryTask1\\PrimaryTask1\\PrimaryTask1.csproj",
-              "RelativeDocumentMoniker": "PrimaryTask1\\PrimaryTask1.csproj",
-              "ToolTip": "F:\\Spring-24\\.NET\\PrimaryTask1\\PrimaryTask1\\PrimaryTask1.csproj",
-              "RelativeToolTip": "PrimaryTask1\\PrimaryTask1.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-19T09:03:03.59Z"
             }
           ]
         }

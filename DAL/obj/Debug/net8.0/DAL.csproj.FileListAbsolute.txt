@@ -22,3 +22,4 @@ F:\Spring-24\.NET\PrimaryTask1\DAL\obj\Debug\net8.0\DAL.dll
 F:\Spring-24\.NET\PrimaryTask1\DAL\obj\Debug\net8.0\refint\DAL.dll
 F:\Spring-24\.NET\PrimaryTask1\DAL\obj\Debug\net8.0\DAL.pdb
 F:\Spring-24\.NET\PrimaryTask1\DAL\obj\Debug\net8.0\ref\DAL.dll
+F:\Spring-24\.NET\PrimaryTask1\DAL\obj\Debug\net8.0\DAL.sourcelink.json

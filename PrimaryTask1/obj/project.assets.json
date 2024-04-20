@@ -3077,7 +3077,6 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "BLL >= 1.0.0",
-      "DAL >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.4",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 8.0.2"
     ]
@@ -3111,9 +3110,6 @@
           "projectReferences": {
             "F:\\Spring-24\\.NET\\PrimaryTask1\\BLL\\BLL.csproj": {
               "projectPath": "F:\\Spring-24\\.NET\\PrimaryTask1\\BLL\\BLL.csproj"
-            },
-            "F:\\Spring-24\\.NET\\PrimaryTask1\\DAL\\DAL.csproj": {
-              "projectPath": "F:\\Spring-24\\.NET\\PrimaryTask1\\DAL\\DAL.csproj"
             }
           }
         }

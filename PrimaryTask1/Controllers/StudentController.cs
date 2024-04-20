@@ -3,6 +3,7 @@ using BLL.Model;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace PrimaryTask1.Controllers
 {
     [ApiController]
@@ -16,7 +17,7 @@ namespace PrimaryTask1.Controllers
         }
 
 
-        // GET: Students
+        // GET (Read all student)
         [HttpGet]
         [Route("api/[controller]/GetStudents")]
         public IActionResult Get()
@@ -39,7 +40,7 @@ namespace PrimaryTask1.Controllers
         }
 
 
-        // GET api/<StudentController>/2
+        // GET (Read student by ID)
         [HttpGet]
         [Route("api/[controller]/GetStudentById/{id}")]
         public IActionResult Get(int id)
@@ -61,9 +62,9 @@ namespace PrimaryTask1.Controllers
             }
         }
 
-        // POST api/<StudentController>
+        // POST (Create student)
         [HttpPost]
-        [Route("api/[controller]/Student")]
+        [Route("api/[controller]/CreateStudent")]
         public IActionResult Post([FromBody] StudentModel model)
         {
             try
@@ -78,16 +79,17 @@ namespace PrimaryTask1.Controllers
             }
         }
 
-        // PUT api/<StudentController>/2
+        // PUT (Update student)
         [HttpPut]
-        [Route("api/[controller]/Student")]
-        public IActionResult Put([FromBody] StudentModel model)
+        [Route("api/[controller]/UpdateStudent/{id}")]
+        public IActionResult Put(int id,[FromBody] StudentModel model)
         {
 
             try
             {
+                
                 ResponseType type = ResponseType.Success;
-                dbHelper.SaveStudent(model);
+                dbHelper.UpdateStudent(id,model);
                 return Ok(ResponseHandler.GetAppResponse(type, model));
             }
             catch (Exception ex)
@@ -96,7 +98,8 @@ namespace PrimaryTask1.Controllers
             }
         }
 
-        // DELETE api/<StudentController>/2
+
+        // DELETE (Delete Student)
         [HttpDelete]
         [Route("api/[controller]/DeleteStudent/{id}")]
         public IActionResult Delete(int id)
@@ -113,6 +116,5 @@ namespace PrimaryTask1.Controllers
             }
         }
 
-        
     }
 }

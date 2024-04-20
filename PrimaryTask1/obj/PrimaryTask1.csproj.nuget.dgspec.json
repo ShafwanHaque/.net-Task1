@@ -166,9 +166,6 @@
             "projectReferences": {
               "F:\\Spring-24\\.NET\\PrimaryTask1\\BLL\\BLL.csproj": {
                 "projectPath": "F:\\Spring-24\\.NET\\PrimaryTask1\\BLL\\BLL.csproj"
-              },
-              "F:\\Spring-24\\.NET\\PrimaryTask1\\DAL\\DAL.csproj": {
-                "projectPath": "F:\\Spring-24\\.NET\\PrimaryTask1\\DAL\\DAL.csproj"
               }
             }
           }
