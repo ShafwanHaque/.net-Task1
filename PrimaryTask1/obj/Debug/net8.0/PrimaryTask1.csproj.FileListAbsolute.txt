@@ -180,10 +180,6 @@ F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\bin\Debug\net8.0\ru\Microsoft.CodeAn
 F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\bin\Debug\net8.0\BLL.dll
-F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\bin\Debug\net8.0\DAL.dll
-F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\bin\Debug\net8.0\BLL.pdb
-F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\bin\Debug\net8.0\DAL.pdb
 F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\obj\Debug\net8.0\PrimaryTask1.csproj.AssemblyReference.cache
 F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\obj\Debug\net8.0\PrimaryTask1.GeneratedMSBuildEditorConfig.editorconfig
 F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\obj\Debug\net8.0\PrimaryTask1.AssemblyInfoInputs.cache
@@ -205,3 +201,7 @@ F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\obj\Debug\net8.0\PrimaryTask1.pdb
 F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\obj\Debug\net8.0\PrimaryTask1.genruntimeconfig.cache
 F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\obj\Debug\net8.0\ref\PrimaryTask1.dll
 F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\obj\Debug\net8.0\PrimaryTask1.sourcelink.json
+F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\bin\Debug\net8.0\FluentAssertions.dll
+F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Spring-24\.NET\PrimaryTask1\PrimaryTask1\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
